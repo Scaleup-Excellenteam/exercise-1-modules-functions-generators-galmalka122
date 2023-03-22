@@ -1,1 +1,1 @@
-"first branch opened through cmd" 
+"this is the readme text file of branch 2" 
